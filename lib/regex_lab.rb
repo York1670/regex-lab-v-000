@@ -1,6 +1,6 @@
 class WorkingWithRegularExpressions
   def starts_with_a_vowel?(word)
-    if word.match(/\s[aeiou]/i)
+    if word.match(/[aeiou]/i)
       return true
     else
       return false
