@@ -1,4 +1,4 @@
-class WorkingWithRegularExpressions
+
   def starts_with_a_vowel?(word)
     if word.match(/^[aeiouAEIOU]/)
       true
@@ -6,4 +6,3 @@ class WorkingWithRegularExpressions
       false
     end
   end
-end
