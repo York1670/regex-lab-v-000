@@ -5,4 +5,4 @@ class WorkingWithRegularExpressions
   else
     false
   end
-endend
+end
